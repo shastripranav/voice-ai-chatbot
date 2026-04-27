@@ -38,7 +38,7 @@ A modular voice conversation pipeline that chains Speech-to-Text, LLM processing
 
 ```bash
 # Clone and install
-cd projects/voice-ai-chatbot
+cd voice-ai-chatbot
 pip install -e ".[dev]"
 
 # Copy env file and add your API keys (optional — mocks work without keys)
