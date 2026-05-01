@@ -1,5 +1,7 @@
 # Voice AI Chatbot Starter Kit
 
+[![CI](https://github.com/shastripranav/voice-ai-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/shastripranav/voice-ai-chatbot/actions/workflows/ci.yml)
+
 A modular voice conversation pipeline that chains Speech-to-Text, LLM processing, and Text-to-Speech into an end-to-end voice AI experience. Each component (STT, LLM, TTS) can be swapped independently via configuration.
 
 ## Architecture
